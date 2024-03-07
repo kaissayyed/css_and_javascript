@@ -1,0 +1,21 @@
+*{
+    /* margin: 4px; */
+}
+header{
+    background-color: black;
+    color: white;
+    width: 100vw;
+    height:10vh;
+    position: sticky;
+    top:0;
+    left: 0;
+}
+.container{
+    min-height: 1500px;
+  background-color: red;
+  position: relative;
+  z-index: 3;
+}
+li{
+    list-style: decimal;
+}
