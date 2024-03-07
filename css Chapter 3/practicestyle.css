@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+     background-color: black;
+     color: aliceblue;
+     height: 60px;
+    }
+.content{
+    background-color: blue;
+    color: white;
+    height: 500px;
+}
+footer{
+ background-color: grey;
+ color:antiquewhite;
+ height: 40px;
+}
+.center{
+    text-align: center;
+}

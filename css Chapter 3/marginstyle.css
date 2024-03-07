@@ -1,0 +1,22 @@
+.box1{
+    color: aqua;
+    background-color: green;
+    margin: 8px;
+    height: 1000px;
+    font-size: larger;
+   width: 1200px;
+  border: 2px solid red;
+}
+.box2{
+    color: aliceblue;
+    background-color: black;
+    padding: 6px;
+    height: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid red;
+}
+*{
+    margin: 12;
+    padding: 12;
+}
