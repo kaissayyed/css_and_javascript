@@ -1,0 +1,12 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap'); */
+p{
+    background-color: red;
+    width:550px;
+    color: white;
+    /* text-decoration:underline dotted BLUE; */
+    height: 525px;
+    text-transform:capitalize;
+    line-height: 20.3px;
+    font-family: 'Crimson Pro', serif;
+    font-size: 20px;
+}
